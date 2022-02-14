@@ -1,0 +1,5 @@
+This is a sample file to test git commands
+phone number 9840720512
+2nd contact 9444066765
+3rd contact 9999999999
+my first pull from github 
